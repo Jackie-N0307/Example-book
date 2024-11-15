@@ -1,0 +1,6 @@
+[book]
+authors = ["Jackie-N0307"]
+language = "en"
+multilingual = false
+src = "src"
+title = "example-mdbook"
